@@ -18,7 +18,7 @@ log_file = "uptime_log.txt"
 theme = {
     "bg": "#282c34",
     "text_bg": "#3c3f58",
-    "text_fg": "#ADADAD",
+    "text_fg": "#FFFFFF",
     "btn_bg": "#61afef",
     "btn_fg": "#282c34",
     "btn_hover_bg": "#5299e6",
